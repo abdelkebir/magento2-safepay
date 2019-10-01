@@ -21,6 +21,10 @@ Please go to the Magento folder and run the following command:
 
 ```composer require abdelkebir/magento2-safepay```
 
+### Install by uploading files
+
+You can download as "zip" file and unzip Safepay extension or clone this repository by the following commands:
+
 
 ![alt text](http://url/to/img.png)
 
