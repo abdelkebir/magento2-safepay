@@ -23,7 +23,21 @@ Please go to the Magento folder and run the following command:
 
 ### Install by uploading files
 
-You can download as "zip" file and unzip Safepay extension or clone this repository by the following commands:
+You can download as "zip" file and unzip Safepay extension:
+
+![alt text](http://url/to/img.png)
+
+or clone this repository by the following commands:
+
+```git clone https://github.com/abdelkebir/magento2-safepay.git```
+
+Please create the folder **app/code/Godogi/Safepay** and copy all files which you have downloaded to it.
+
+The code directory would be like this:
+
+![alt text](http://url/to/img.png)
+
+
 
 
 ![alt text](http://url/to/img.png)
