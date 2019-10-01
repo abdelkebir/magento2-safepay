@@ -14,14 +14,7 @@ Now you're ready for the installation.
 
 ## Installation
 
-### Installation using composer
-
-You can install this module by Composer (If your server supports Composer). 
-Please go to the Magento folder and run the following command:
-
-```composer require abdelkebir/magento2-safepay```
-
-### Install by uploading files
+### Uploading Files
 
 You can download as "zip" file and unzip Safepay extension:
 
