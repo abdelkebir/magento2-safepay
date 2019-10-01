@@ -37,6 +37,19 @@ The code directory would be like this:
 
 ![alt text](http://url/to/img.png)
 
+### Magento CLI
+
+To complete the installation open your terminal, change to magento root directory and use command line :
+
+```cd [magento 2 root folder]```
+
+```php bin/magento setup:upgrade```
+
+After that, if your website is in the production mode, please run the command:
+
+```php bin/magento setup:static-content:deploy```
+
+## Configuration
 
 
 
