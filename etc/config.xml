@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <payment>
+            <safepaymod>
+                <active>0</active>
+                <title>Safepay</title>
+                <test>1</test>
+                <model>Godogi\Safepay\Model\Safepay</model>
+            </safepaymod>
+        </payment>
+    </default>
+</config>

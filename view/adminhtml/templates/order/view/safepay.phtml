@@ -1,0 +1,53 @@
+<?php
+$safepayEntry = $this->getSafepayEntry();
+if($safepayEntry && $this->getPaymentMethod() == "safepaymod"){
+  ?>
+  <div class="item">
+    <strong>Client:</strong>
+    <span><?php echo $safepayEntry['client']; ?></span>
+  </div>
+  <div class="item">
+    <strong>User:</strong>
+    <span><?php echo $safepayEntry['user']; ?></span>
+  </div>
+  <div class="item">
+    <strong>Amount:</strong>
+    <span><?php echo $safepayEntry['amount']; ?></span>
+  </div>
+  <div class="item">
+    <strong>Fees:</strong>
+    <span><?php echo $safepayEntry['fees']; ?></span>
+  </div>
+  <div class="item">
+    <strong>Net:</strong>
+    <span><?php echo $safepayEntry['net']; ?></span>
+  </div>
+  <div class="item">
+    <strong>Currency:</strong>
+    <span><?php echo $safepayEntry['currency']; ?></span>
+  </div>
+
+  <div class="item">
+    <strong>Reference:</strong>
+    <span><?php echo $safepayEntry['reference']; ?></span>
+  </div>
+  <div class="item">
+    <strong>Token:</strong>
+    <span><?php echo $safepayEntry['token']; ?></span>
+  </div>
+  <div class="item">
+    <strong>Tracker:</strong>
+    <span><?php echo $safepayEntry['tracker']; ?></span>
+  </div>
+
+  <div class="item">
+    <strong>Created at:</strong>
+    <span><?php echo $safepayEntry['created_at']; ?></span>
+  </div>
+  <div class="item">
+    <strong>Updated at:</strong>
+    <span><?php echo $safepayEntry['updated_at']; ?></span>
+  </div>
+  <?php
+}
+?>
