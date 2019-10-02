@@ -1,5 +1,8 @@
 # Safepay Extension for Magento 2
 
+
+![Safepay](https://drive.google.com/uc?id=1iJlUH7WF2Rhyb__B1Cayua5oPPUjBw-_)
+
 ## Pre-Installation
 
 Before any installation put your Magento store in developer mode, to do that please go to the Magento folder and run the following command:
@@ -18,7 +21,7 @@ Now you're ready for the installation.
 
 You can download as "zip" file and unzip Safepay extension:
 
-![alt text](http://url/to/img.png)
+![Download az zip](https://drive.google.com/uc?id=1PyG1o0JM5FA3a73_GULN-uaIEfPloB-i)
 
 or clone this repository by the following commands:
 
