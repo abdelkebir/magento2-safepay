@@ -47,7 +47,16 @@ After that, if your website is in the production mode, please run the command:
 
 ## Configuration
 
+Log in to your Magento admin panel, go to STORES > Configuration:
 
+![STORES > Configuration](https://drive.google.com/uc?id=1H3okL8cFh-mtWewhtiAVoyhtzJnmNgur)
 
-![alt text](http://url/to/img.png)
+Than go to SALES > Payment Methods:
+
+![Directory architecture](https://drive.google.com/uc?id=1i_vw3t3lm9Tw4oJEeGKVaw85ghSSEhYB)
+
+You will find Safepay configuration block under Safepay tab:
+
+![Directory architecture](https://drive.google.com/uc?id=17guR8pV9FxXVIHC3WkJund8yL4etLr6p)
+
 
