@@ -57,6 +57,8 @@ Than go to SALES > Payment Methods:
 
 You will find Safepay configuration block under Safepay tab:
 
-![Directory architecture](https://drive.google.com/uc?id=17guR8pV9FxXVIHC3WkJund8yL4etLr6p)
+![Directory architecture](https://drive.google.com/uc?id=1wg1WbSgxdJ6ZJT9TDcgODURHe9WdKF4v)
+
+In this form you can add your Safepay sandbox and production keys, you can also enable or disable this module and change the module title on checkout.
 
 
