@@ -31,7 +31,7 @@ Please create the folder **app/code/Godogi/Safepay** and copy all files which yo
 
 The code directory would be like this:
 
-![alt text](http://url/to/img.png)
+![Directory architecture](https://drive.google.com/uc?id=17guR8pV9FxXVIHC3WkJund8yL4etLr6p)
 
 ### Magento CLI
 
