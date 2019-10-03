@@ -51,7 +51,7 @@ Log in to your Magento admin panel, go to STORES > Configuration:
 
 ![STORES > Configuration](https://drive.google.com/uc?id=1H3okL8cFh-mtWewhtiAVoyhtzJnmNgur)
 
-Than go to SALES > Payment Methods:
+Then go to SALES > Payment Methods:
 
 ![Directory architecture](https://drive.google.com/uc?id=1i_vw3t3lm9Tw4oJEeGKVaw85ghSSEhYB)
 
